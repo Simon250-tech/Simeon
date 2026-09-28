@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Sep 28, 2026, 01_01_48 PM" src="https://github.com/user-attachments/assets/cc66fe1b-7f98-4de3-bda9-e1c0d50d1309" />
 # 👋 Hi, I'm Izabayo Simeon
 
 ### 💻 Software Engineering Student at UNILAK | Aspiring Software Engineer | Technology & Innovation Enthusiast
