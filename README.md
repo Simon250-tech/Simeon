@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Izabayo Simeon
-https://chatgpt.com/s/m_6aba4fc2ef248191b174ede8889d96dd
+<img width="1672" height="940" alt="ChatGPT Image Sep 28, 2026, 01_27_03 PM" src="https://github.com/user-attachments/assets/618364cc-b2ea-4529-9cb3-d2a6f16a3e22" />
+
 ### 💻 Software Engineering Student at UNILAK | Aspiring Software Engineer | Technology & Innovation Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Aspiring+Software+Engineer;Web+Development+Enthusiast;Technology+%26+Innovation+Enthusiast)](https://git.io/typing-svg)
